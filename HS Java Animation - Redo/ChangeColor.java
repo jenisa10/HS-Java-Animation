@@ -1,3 +1,4 @@
+/* Basic panel to change colors and work with JFrame and buttons. */
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
